@@ -3,11 +3,11 @@
 <p align="center"><strong>Software Engineer · Computer Science at LSU</strong></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nedyaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a> ·
-  <a href="mailto:jnhong06@gmail.com">jnhong06@gmail.com</a>
+  <a href="https://www.linkedin.com/in/nedyaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:jnhong06@gmail.com"><img src="https://img.shields.io/badge/Email-B3261E?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Jayden at jnhong06@gmail.com" /></a>
 </p>
 
-I code sometimes :3
+<p align="center">I code sometimes :3</p>
 
 ## Featured projects
 
