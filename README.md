@@ -7,7 +7,7 @@
   <a href="mailto:jnhong06@gmail.com">jnhong06@gmail.com</a>
 </p>
 
-I build backend services and AI tools, mostly in C# and Python. At CARTS, I built **Thad**, a .NET assistant that turns plain-English questions into read-only SQL Server queries. I’m studying computer science at Louisiana State University and joining Capital One as a software engineering intern in summer 2027.
+I code sometimes :3
 
 ## Featured projects
 
